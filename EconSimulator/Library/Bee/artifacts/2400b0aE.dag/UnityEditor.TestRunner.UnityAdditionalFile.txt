@@ -1,1 +1,1 @@
-C:\Users\Jaskeerat Singh\Documents\GitHub\Ecom-Simulator\EconSimulator
+/home/whiteye/Projects/Ecom-Simulator/EconSimulator
