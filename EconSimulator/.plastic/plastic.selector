@@ -1,0 +1,4 @@
+repository "EconSimulator@God_Chosen@cloud"
+  path "/"
+    br "/main"
+    co "/main"
